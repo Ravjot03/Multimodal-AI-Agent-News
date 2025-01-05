@@ -1,1 +1,1 @@
-# Multimodal-AI-Agent-News-Summarization-&-Sentiment-Analysis
+# Multimodal AI Agent - News Summarization & Sentiment Analysis
